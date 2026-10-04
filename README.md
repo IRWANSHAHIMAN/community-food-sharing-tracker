@@ -9,18 +9,6 @@ The system is designed to help manage community food donations by allowing users
 
 ## 📸 Project Preview
 
-### Main Menu
-![Main Menu](images/main-menu.png)
-
-### Add Food
-![Add Food](images/add-food.png)
-
-### View All Food
-![View All Food](images/view-food.png)
-
-### Search Food
-![Search Food](images/search-food.png)
-
 ---
 
 ## ✨ Features
@@ -143,7 +131,7 @@ Error: Please enter a number.
 
 ## 📊 UML Class Diagram
 
-![UML Class Diagram](images/uml-diagram.png)
+![UML Class Diagram](images/UML.jpg)
 
 ---
 
